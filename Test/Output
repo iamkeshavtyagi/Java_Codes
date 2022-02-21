@@ -1,0 +1,66 @@
+Output:
+
+Qus1:   
+
+ABC2012345
+ABC2012660
+4
+1260
+
+
+ABC3015675
+ABC3013670
+5
+10025
+
+Qus2:
+#FF9922
+Valid
+
+#FF&rr
+Invalid
+
+$24FFR
+Invalid
+
+#BBCCDD
+Valid
+
+Qus3:
+
+Enter a number N
+5
+Enter a number R
+3
+Value of 5C3 = 10
+Enter a number N
+10
+Enter a number R
+0
+Value of 10C0 = 1
+
+
+Enter a number N
+0
+Enter a number R
+0
+Value of 0C0 = 1
+
+Enter a number N
+8
+Enter a number R
+2
+Value of 8C2 = 28
+
+
+Qus4.)
+
+ashok_23
+Valid
+
+KESHAC
+Invalid
+
+123@KESTYAGI
+Invalid
+
